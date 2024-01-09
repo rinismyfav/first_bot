@@ -19,7 +19,5 @@ class Base:
 if __name__ == '__main__':
     pass
 
-#print(Base().execute('select * from users;'))
-#Base().execute('insert into users(name) values("Oleg");')
 
 
